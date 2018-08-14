@@ -1,5 +1,3 @@
-/*This source code copyrighted by Lazy Foo' Productions (2004-2009) and may not
-be redestributed without written permission.*/
 
 //The headers
 #include <SDL/SDL.h>
